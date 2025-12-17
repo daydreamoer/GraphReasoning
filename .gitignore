@@ -1,0 +1,10 @@
+.idea/
+.env
+__pycache__/
+*.bin
+*.pt
+*.safetensors
+*.h5
+dataset/**/*output*
+bge-m3-sbert/
+bge-reranker-base/
